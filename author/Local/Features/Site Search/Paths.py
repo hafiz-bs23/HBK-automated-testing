@@ -1,0 +1,5 @@
+ROOT_PATH = 'localhost:4502/content/hbkworld/global'
+GENERAL_FEATURE_PAGE_PATH = '/en/dev-test/automation---site-search.html?wcmmode=disabled'
+CUSTOM_UI_PAGE_PATH = '/en/dev-test/automation---site-search-custom-ui.html?wcmmode=disabled'
+PARENT_RESTRICTION = '/en/dev-test/automation---site-search-parent-restriction.html?wcmmode=disabled'
+DEPTH_RESTRICTION = '/en/dev-test/automation---site-search-depth-restriction.html?wcmmode=disabled'
